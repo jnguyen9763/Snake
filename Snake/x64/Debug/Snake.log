@@ -1,0 +1,11 @@
+﻿  Apple.cpp
+c:\users\jackie nguyen\source\repos\snake\snake\apple.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Board.cpp
+c:\users\jackie nguyen\source\repos\snake\snake\board.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jackie nguyen\source\repos\snake\snake\board.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.cpp
+c:\users\jackie nguyen\source\repos\snake\snake\snake.cpp(9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\users\jackie nguyen\source\repos\snake\snake\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Snake.vcxproj -> C:\Users\Jackie Nguyen\source\repos\Snake\x64\Debug\Snake.exe
